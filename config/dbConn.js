@@ -6,4 +6,5 @@ let dbConn = {
 	database: 'headerauth',
 };
 
-module.exports = dbConn;
+module.exports = dbConn; 
+
